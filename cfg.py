@@ -1,0 +1,5 @@
+TOKEN = ''
+CHANNEL = 'https://t.me/Cod3rX'
+PORTFOLIO = 'https://bohd4n.dev/'
+GITHUB = 'https://github.com/bohd4nx'
+RESUME = 'https://bohd4n.dev/resume'
