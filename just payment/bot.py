@@ -12,7 +12,7 @@ from aiogram.types import LabeledPrice, PreCheckoutQuery, ContentType
 from aiogram.utils import executor
 import aiohttp
 
-API_TOKEN = '7388807612:AAHq_8PRDzb2MZadDzkSIBXZdDrtXUf47zo'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
